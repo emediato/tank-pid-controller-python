@@ -1,6 +1,6 @@
 Trabalho prático Final ATR. 
 
-Autor: Hiury Goulart Sant Ana.
+Autor: Mônica Emediato
 
 Procedimentos para a execução dos Programas.
 
